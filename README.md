@@ -1,13 +1,6 @@
-# Software Engineer | .NET Developer | Computer Science Degree
-
-Most of my professional work is built on proprietary code and/or protected by NDAs. 
-
-Whether I'm working with .NET or Java, exploring C++, or revisiting technologies I've mastered over the years like PHP and JavaScript, this is where I keep my personal labs and technical evolution organized.
-
+Personal projects, experiments and technical labs.
 
 **.NET** • **C#** • **PHP** • **SQL** • **JavaScript** • **Angular** • **React**
-
----
 
 ### Activity & Stats
 <p align="left">
